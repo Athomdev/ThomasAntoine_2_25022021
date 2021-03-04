@@ -1,0 +1,106 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+h1, h2, h3, h4
+{
+    font-weight: bolder;
+}
+
+#hebergement, #inscription
+{ 
+    color: #0065fc;
+    text-decoration: none;
+
+}
+
+li
+{
+    list-style: none;
+}
+
+#activites
+{
+    color: black;
+    text-decoration: none;  
+    border-top;
+    
+}
+
+
+#hebergement
+{
+    border-top: 2px solid  #0065fc ;
+}
+
+#icon 
+{
+    background-color: #0065fc;
+    color: white;
+    border-radius: 60%;
+    border: solid #f2f2f2 0.5px;
+}
+
+#search
+{
+    background-color:#0065fc;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    padding: 1em;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+
+#filtre
+{
+    border: solid black ;
+    border-radius: 50%;
+    
+    margin: 1px;
+    padding: 2px
+}
+label
+{
+    padding: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+    background-color: #f2f2f2;
+}
+input
+{
+   font-size: x-large ;
+   border-top: solid 0.5px #f2f2f2 ;
+   border-bottom: solid 0.5px #f2f2f2 ;
+   border-left: none;
+   border-right: none;
+   padding: 10px;
+}
+
+#icon_filtre
+{
+    color: #0065fc;
+    background-color: #deebff;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 2px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.art_hebergement
+
+{
+    background-color: #f2f2f2;
+    margin: 2em;
+    padding: 2em;
+    border-radius: 12px;
+   
+}
